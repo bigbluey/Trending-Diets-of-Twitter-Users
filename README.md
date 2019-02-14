@@ -1,4 +1,4 @@
-# Trending-Diets-of-Twitter-Users
+# Trending-Diets-of-Twitter-Users in the US in the Last 30 Days
 
 
 ### Objective
