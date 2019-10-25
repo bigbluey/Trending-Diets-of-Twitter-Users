@@ -4,7 +4,7 @@
 ### Objective
 
 * What Were Twitter Hashtags for Keto, Paleo, Weight Watchers and Whole30 Diets Trending in the US Within the Last 30 Days?
-* Start Date: Feburary 14, 2019
+* Start Date: February 14, 2019
 
 ### Tools
 
